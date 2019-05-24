@@ -10,8 +10,6 @@ requests and monitor the status of their request.
 
 ## Required Features:
 1. Users (un-signed) can view a catalog of devices available for sale/order.
-    - A Home/Landing page with a gallery of devices (Image and Spec summary)
-
 2. Users (un-signed) can expand a galley item to reveal a detailed specification of an item available for sale/order.
 
 3. Login/Register.Users can create an account and log in.
@@ -45,7 +43,7 @@ requests and monitor the status of their request.
 
 12. Database of customers
 
-13 Admin should be able to negociate/approve quotes before sending to users
+13. Admin should be able to negociate/approve quotes before sending to users
 
 
 
